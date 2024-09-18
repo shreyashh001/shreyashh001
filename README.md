@@ -1,6 +1,4 @@
 trying to build things that people will remember. tweets(a lot).
 be curious:) 💙
-<!---
-shreyashh001/shreyashh001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![image alt](https://github.com/shreyashh001/shreyashh001/blob/main/wallpapersden.com_mars-4k_4096x3112%20(1).jpg)
